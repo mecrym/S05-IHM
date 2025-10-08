@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "disciplina": "S05 - Interação Homem Máquina",
+        "data": "ter",
+        "horario": "10:00",
+        "local": "P1-S17",
+        "prova_alert": false,
+        "prova": "12/05",
+        "frequencia": "4/25",
+        "nota": "9"
+    },
+    {
+        "id": 2,
+        "disciplina": "E01 - Circuitos Elétricos em Corrente Contínua",
+        "data": "ter",
+        "horario": "08:00",
+        "local": "L3-P2",
+        "prova_alert": true,
+        "prova": "12/05",
+        "frequencia": "10/25",
+        "nota": "5"
+    },
+    {
+        "id": 3,
+        "disciplina": "M02 - Álgebra e Geometria Analítica",
+        "data": "ter",
+        "horario": "14:00",
+        "local": "P2-S10",
+        "prova_alert": true,
+        "prova": "14/05",
+        "frequencia": "8/25",
+        "nota": "7"
+    },
+    {
+        "id": 4,
+        "disciplina": "M03 - Cálculo Aplicado a Engenharia I",
+        "data": "seg",
+        "horario": "08:00",
+        "local": "P3-S05",
+        "prova_alert": true,
+        "prova": "11/05",
+        "frequencia": "5/25",
+        "nota": "5"
+    },
+    {
+        "id": 5,
+        "disciplina": "C02 - Algoritmos e Estrutura de Dados I",
+        "data": "seg",
+        "horario": "10:00",
+        "local": "L5-P1",
+        "prova_alert": false,
+        "prova": "20/05",
+        "frequencia": "2/25",
+        "nota": "7"
+    },
+    {
+        "id": 6,
+        "disciplina": "C10 - Inteligência Artificial",
+        "data": "seg",
+        "horario": "14:00",
+        "local": "L5-P2",
+        "prova_alert": false,
+        "prova": "22/05",
+        "frequencia": "1/25",
+        "nota": "9"
+    },
+    {
+        "id": 7,
+        "disciplina": "C12 - Sistemas Operacionais",
+        "data": "qua",
+        "horario": "10:00",
+        "local": "L5-P1",
+        "prova_alert": true,
+        "prova": "13/05",
+        "frequencia": "7/25",
+        "nota": "8"
+    },
+    {
+        "id": 8,
+        "disciplina": "S01 - Paradigmas da Programação",
+        "data": "qua",
+        "horario": "14:00",
+        "local": "P1-S15",
+        "prova_alert": false,
+        "prova": "21/05",
+        "frequencia": "3/25",
+        "nota": "5"
+    },
+    {
+        "id": 9,
+        "disciplina": "C07 - Banco de Dados",
+        "data": "qua",
+        "horario": "16:00",
+        "local": "L4-P2",
+        "prova_alert": false,
+        "prova": "23/05",
+        "frequencia": "4/25",
+        "nota": "7"
+    },
+    {
+        "id": 10,
+        "disciplina": "T02 - Redes de Dados I",
+        "data": "qui",
+        "horario": "08:00",
+        "local": "L6-P1",
+        "prova_alert": false,
+        "prova": "25/05",
+        "frequencia": "2/25",
+        "nota": "9"
+    },
+    {
+        "id": 11,
+        "disciplina": "C14 - Engenharia de Software",
+        "data": "qui",
+        "horario": "10:00",
+        "local": "L5-P2",
+        "prova_alert": true,
+        "prova": "15/05",
+        "frequencia": "6/25",
+        "nota": "7"
+    },
+    {
+        "id": 12,
+        "disciplina": "M09 - Otimização",
+        "data": "qui",
+        "horario": "14:00",
+        "local": "P3-S02",
+        "prova_alert": false,
+        "prova": "28/05",
+        "frequencia": "9/25",
+        "nota": "4"
+    },
+    {
+        "id": 13,
+        "disciplina": "S07 - Qualidade, Gerência de Config e Evolução de Software",
+        "data": "sex",
+        "horario": "08:00",
+        "local": "P1-S18",
+        "prova_alert": false,
+        "prova": "29/05",
+        "frequencia": "3/25",
+        "nota": "6"
+    },
+    {
+        "id": 14,
+        "disciplina": "C09 - Computação Gráfica e Multimídia",
+        "data": "sex",
+        "horario": "10:00",
+        "local": "L6-P2",
+        "prova_alert": false,
+        "prova": "30/05",
+        "frequencia": "1/25",
+        "nota": "9"
+    },
+    {
+        "id": 15,
+        "disciplina": "C15 - Sistemas Distribuídos",
+        "data": "sex",
+        "horario": "14:00",
+        "local": "L4-P1",
+        "prova_alert": true,
+        "prova": "16/05",
+        "frequencia": "11/25",
+        "nota": "5"
+    }
+]
